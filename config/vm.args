@@ -1,0 +1,6 @@
+-sname amqcwb
+-setcookie amqcwb_cookie
+-smp auto
++K true
++A 30
++d
